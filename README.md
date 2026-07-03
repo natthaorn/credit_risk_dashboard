@@ -3,7 +3,9 @@
 **👉 [View Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/natthaorn.lapprasitsuk/viz/Credit_Risk_Dashboard_17830446303050/Dashboard1?publish=yes) 👈**
 
 ## 📌 Project Overview
-This project aims to build a robust Machine Learning model to predict corporate loan defaults (Probability of Default - PD). Leveraging a dataset of 50,000 corporate loans across 10 sectors (simulating conditions from 2015-2024, including rate hike cycles), the goal is to identify high-risk borrowers and provide actionable business insights to minimize Non-Performing Loans (NPL).
+This project aims to build a robust Machine Learning model to predict corporate loan defaults (Probability of Default - PD). Leveraging a dataset of 50,000 corporate loans across 10 sectors (simulating conditions from 2015-2024, including rate hike cycles), the goal is to identify high-risk borrowers and provide actionable business insights to minimize Non-Performing Loans (NPL). 
+
+Source Dataset: https://www.kaggle.com/datasets/sergionefedov/credit-risk-dataset-50k-loans-10-sectors
 
 ## 🎯 Business Value & Impact
 - **Risk Mitigation:** The model achieved a **Recall of 68%**, meaning it can successfully proactively identify and flag 68% of potential defaulters before the loan is approved.
