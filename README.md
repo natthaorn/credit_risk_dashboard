@@ -31,8 +31,7 @@ Source Dataset: https://www.kaggle.com/datasets/sergionefedov/credit-risk-datase
 
 ## 📂 Repository Structure
 - `data/`: Contains the raw datasets and exported `feature_importance.csv` for BI tools.
-- `1_EDA_and_Data_Cleaning.ipynb`: Jupyter Notebook detailing the EDA, leakage handling, and data profiling.
-- `2_Model_Building.ipynb`: (If applicable) Jupyter Notebook containing the ML pipeline and evaluation metrics.
+- `1_EDA_and_Data_Cleaning.ipynb`: Jupyter Notebook detailing the EDA, leakage handling, and data profiling. Also Split the Phases for Feature Selection and Evaluation
 - `Dashboard/`: Contains the Power BI / Tableau dashboard files highlighting executive insights.
 
 ---
